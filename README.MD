@@ -5,7 +5,7 @@
 Run:
 
 ```
-yarn install && yarn start
+yarn install && yarn dev
 ```
 
 Build
