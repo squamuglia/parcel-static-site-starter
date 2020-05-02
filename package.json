@@ -1,0 +1,27 @@
+{
+	"name": "parcel-static-starter",
+	"version": "1.0.0",
+	"description": "starter",
+	"main": "index.js",
+	"author": "Max Smouha",
+	"license": "MIT",
+	"scripts": {
+		"dev": "parcel ./src/*.html",
+		"build": "parcel build  ./src/*.html"
+	},
+	"dependencies": {
+		"@babel/core": "^7.9.6",
+		"@babel/preset-env": "^7.9.6",
+		"autoprefixer": "^9.7.6",
+		"postcss-calc": "^7.0.2",
+		"postcss-custom-media": "^7.0.8",
+		"postcss-discard-comments": "^4.0.2",
+		"postcss-import": "^12.0.1",
+		"postcss-nested": "^4.2.1",
+		"postcss-preset-env": "^6.7.0",
+		"postcss-reporter": "^6.0.1"
+	},
+	"devDependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
