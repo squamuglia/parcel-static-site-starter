@@ -16,7 +16,6 @@
 	"dependencies": {
 		"@babel/core": "^7.9.6",
 		"@babel/preset-env": "^7.9.6",
-		"@fullhuman/postcss-purgecss": "^2.1.2",
 		"autoprefixer": "^9.7.6",
 		"postcss-calc": "^7.0.2",
 		"postcss-custom-media": "^7.0.8",
