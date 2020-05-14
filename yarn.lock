@@ -3072,6 +3072,11 @@ levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
+lib@^4.1.4:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/lib/-/lib-4.1.4.tgz#79c8ac84bbad25ce66a1fda2273d0cb651fb6cfb"
+  integrity sha512-YsmztYT0zyfbArwvxlGfTmvV05Udd4Q1dNAxEWYIFr6O4AQnzl1nT6Iu19n0NM/DkTJvQwIb9MzffSqy6v5gHw==
+
 locate-path@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/locate-path/-/locate-path-2.0.0.tgz#2b568b265eec944c6d9c0de9c3dbbbca0354cd8e"
@@ -5350,6 +5355,11 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typescript@^3.9.2:
+  version "3.9.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.2.tgz#64e9c8e9be6ea583c54607677dd4680a1cf35db9"
+  integrity sha512-q2ktq4n/uLuNNShyayit+DTobV2ApPEo/6so68JaD5ojvc/6GClBipedB9zNWYxRSAlZXAe405Rlijzl6qDiSw==
+
 uncss@^0.17.2:
   version "0.17.3"
   resolved "https://registry.yarnpkg.com/uncss/-/uncss-0.17.3.tgz#50fc1eb4ed573ffff763458d801cd86e4d69ea11"
@@ -5497,6 +5507,11 @@ v8-compile-cache@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/v8-compile-cache/-/v8-compile-cache-2.1.0.tgz#e14de37b31a6d194f5690d67efc4e7f6fc6ab30e"
   integrity sha512-usZBT3PW+LOjM25wbqIlZwPeJV+3OSz3M1k1Ws8snlW39dZyYL9lOGC5FgPVHfk0jKmjiDV8Z0mIbVQPiwFs7g==
+
+vars@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/vars/-/vars-0.1.1.tgz#52e0f014f11085455dc46a810a3d77f158740c42"
+  integrity sha1-UuDwFPEQhUVdxGqBCj138Vh0DEI=
 
 vendors@^1.0.0:
   version "1.0.4"
