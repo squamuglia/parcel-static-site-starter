@@ -1,4 +1,6 @@
  # 🦇 Parcel Static Site Starter
+ 
+ ### As far as I can tell, parcel is still pretty unstable. I would not use this in production.
 
 This starter uses 📦Parcel and is designed for static HTML sites. Build your pages in HTML, link between them with `<a>` tags, just like the Internet intended.
 
